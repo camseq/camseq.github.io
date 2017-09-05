@@ -4,16 +4,16 @@ title: "Team"
 permalink: /team/
 author_profile: true
 ---
-We are a team of passionate graduate students at the University of Cambridge, UK.
+We are the [PuntSeq](https://puntseq.github.io) team of passionate graduate students at the University of Cambridge, UK.
 
-![Max]({{ site.url }}/assets/images/Max-profile-small.png) Max
+![Max]({{ site.url }}/assets/images/Max-profile-small.png) Max Stammnitz, PhD candidate, Department of Veterinary Medicine
 
-![Meltem]({{ site.url }}/assets/images/Meltem-profile-small.png) Meltem
+![Meltem]({{ site.url }}/assets/images/Meltem-profile-small.png) Meltem Gürel, PhD candidate, Cancer Research UK
 
-![Philipp]({{ site.url }}/assets/images/Philipp-profile-small.png) Philipp
+![Philipp]({{ site.url }}/assets/images/Philipp-profile-small.png) Philipp Braeuninger-Weimer, Post doc, Centre of Advanced Photonics and Electronics
 
-![Daniel]({{ site.url }}/assets/images/Daniel_M-profile-small.png) Daniel
+![Daniel]({{ site.url }}/assets/images/Daniel_M-profile-small.png) Daniel Martín Herranz, PhD candidate, European Bioinformatics Institute
 
-![Daniel]({{ site.url }}/assets/images/Daniel_K-profile-small.png) Daniel
+![Daniel]({{ site.url }}/assets/images/Daniel_K-profile-small.png) Daniel Kunz, PhD candidate, Sanger Institute
 
-![Christian]({{ site.url }}/assets/images/Christian-profile-small.png) Christian
+![Christian]({{ site.url }}/assets/images/Christian-profile-small.png) Christian, PhD candidate, Sainsbury Laboratory

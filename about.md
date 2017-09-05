@@ -4,10 +4,7 @@ title: "About"
 permalink: /about/
 author_profile: true
 ---
-
-We are a group of PhD students and postdocs at the University of Cambridge.
-With the help of the [Open Plant Fund](https://www.openplant.org/fund/)
-we try to capture the microbial diversity in Cambridge using a portable DNA sequencer. Our team combines knowledge and know-­how from very different study backgrounds with the curiosity to learn about and share experiences on cutting-­edge portable DNA sequencing technology.
+PuntSeq is a citizen science project led by a small group of graduate students at the University of Cambridge, UK. Our aim is to monitor the quality and microbial diversity of freshwater of the river Cam and its nearby lakes by means of portable DNA sequencing, and to empower public stakeholders in using this technology for their own environmental assessment projects. Experiments will be conducted with Oxford Nanopore Technology's MinION™ device, the world's first commercial hand-sized DNA sequencer, and results will be publicly shared through online resources and open access publishing. PuntSeq is funded by an [Open Plant Fund](https://www.openplant.org/fund/) grant of the joint efforts of the University of Cambridge, John Innes Centre Norwich, Earlam Institute Norwich, BBSRC and EPSRC.
 
 ![Max]({{ site.url }}/assets/images/Max-profile-small.png) Max
 

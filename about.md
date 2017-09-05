@@ -10,10 +10,10 @@ We are the [PuntSeq](https://puntseq.github.io) team of passionate graduate stud
 
 ![Meltem]({{ site.url }}/assets/images/Meltem-profile-small.png) Meltem Gürel, PhD candidate, Cancer Research UK
 
-![Philipp]({{ site.url }}/assets/images/Philipp-profile-small.png) Philipp Braeuninger-Weimer, Post doc, Centre of Advanced Photonics and Electronics
+![Philipp]({{ site.url }}/assets/images/Philipp-profile-small.png) Philipp Braeuninger-Weimer, Post doc, formerly Cavendish Laboratory
 
 ![Daniel]({{ site.url }}/assets/images/Daniel_M-profile-small.png) Daniel Martín Herranz, PhD candidate, European Bioinformatics Institute
 
-![Daniel]({{ site.url }}/assets/images/Daniel_K-profile-small.png) Daniel Kunz, PhD candidate, Sanger Institute
+![Daniel]({{ site.url }}/assets/images/Daniel_K-profile-small.png) Daniel Kunz, PhD candidate, Wellcome Trust Sanger Institute
 
 ![Christian]({{ site.url }}/assets/images/Christian-profile-small.png) Christian, PhD candidate, Sainsbury Laboratory

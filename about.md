@@ -4,7 +4,7 @@ title: "Team"
 permalink: /team/
 author_profile: true
 ---
-We are the [PuntSeq](https://puntseq.github.io) team of passionate graduate students at the University of Cambridge, UK.
+We are the passionate [PuntSeq](https://puntseq.github.io) team of graduate students at the University of Cambridge, UK.
 
 ![Max]({{ site.url }}/assets/images/Max-profile-small.png) Max Stammnitz, PhD candidate, Department of Veterinary Medicine
 

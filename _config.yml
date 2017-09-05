@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : #"Your Name"
-  avatar           : "/assets/images/puntseq-logo.jpg"
+  avatar           : "/assets/images/puntseq-logo.png"
   bio              : #"I am an amazing person."
   location         : "Cambridge, UK"
   email            :
